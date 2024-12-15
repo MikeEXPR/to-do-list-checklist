@@ -12,9 +12,3 @@ It allows users to **add tasks**, **mark them as complete**, **delete tasks**, a
 - ❌ **Delete Tasks**: Remove tasks from your list.
 - 🔼 **Move Up/Down**: Reorder tasks to your preference.
 - 💾 **Persistent Storage**: Tasks are saved to a file so they persist between runs.
-
----
-
-## 📸 Preview
-
-Here’s how the application looks:
